@@ -41,8 +41,8 @@ Gradient Boosting performed best under fair, cross-validated comparison.
 - Log-transforming a skewed target is often the single biggest lever for linear models
 - Regularized linear models (Ridge/Lasso) can already absorb a lot of multicollinearity — manual feature pruning didn't add much on top
 - Encoding train and test data separately can silently corrupt features when rare categories don't appear in both sets — always encode jointly, then split
+![API Demo](api_demo.png)
 ![Model Comparison](model_comparison.png)
-
 ## Tech Stack
 Python, pandas, scikit-learn, matplotlib
 
