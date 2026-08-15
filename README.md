@@ -48,3 +48,9 @@ Python, pandas, scikit-learn, matplotlib
 ## Files
 - `house_price_prediction.ipynb` — full notebook (cleaning → encoding → scaling → modeling → evaluation)
 - `submission.csv` — final Kaggle submission generated from the best model
+
+## Live Demo
+
+Try the API here: [https://house-price-api-2h7m.onrender.com/docs](https://house-price-api-2h7m.onrender.com/docs)
+
+> Note: hosted on Render's free tier, so the first request after inactivity may take up to ~50 seconds to wake up.
