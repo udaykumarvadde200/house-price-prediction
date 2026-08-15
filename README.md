@@ -48,6 +48,7 @@ Python, pandas, scikit-learn, matplotlib
 ## Files
 - `house_price_prediction.ipynb` — full notebook (cleaning → encoding → scaling → modeling → evaluation)
 - `submission.csv` — final Kaggle submission generated from the best model
+- `main.py`, `preprocessing.py`, `train_and_save.py` — FastAPI serving layer (deployed live above)
 
 ## Live Demo
 
